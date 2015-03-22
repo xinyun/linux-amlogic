@@ -94,3 +94,8 @@ x509.genkey
 
 # customer folder
 customer
+__mali_osk_atomics.c
+__mali_osk_locks.c
+__mali_osk_math.c
+__mali_osk_memory.c
+__mali_osk_misc.c
