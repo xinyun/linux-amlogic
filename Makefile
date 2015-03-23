@@ -381,7 +381,6 @@ KBUILD_CFLAGS   += -Werror=enum-compare \
 		   -Werror=unused-value \
 		   -Werror=format \
 		   -Werror=switch \
-		   -Werror=strict-prototypes \
 		   -Werror=uninitialized \
 		   -Werror=unused-label \
 		   -Werror=undef \
